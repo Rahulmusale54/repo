@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 467F-D282
+
+ Directory of C:\Users\Rahul.Musale\Desktop\Backup\Git
+
+02-06-2020  19:45    <DIR>          .
+02-06-2020  19:45    <DIR>          ..
+02-06-2020  19:45                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  305,828,741,120 bytes free
